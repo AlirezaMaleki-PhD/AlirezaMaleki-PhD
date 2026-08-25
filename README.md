@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Alireza Maleki 👋
 
-<!--
-**AlirezaMaleki-PhD/AlirezaMaleki-PhD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. in wireless communications. I work on resource allocation for direct-to-satellite IoT (LoRaWAN), combining communication
+theory with machine learning.
 
-Here are some ideas to get you started:
+- 🔭 Currently: reinforcement learning (PPO/DQN) for packet-loss minimization in LEO satellite IoT
+- 🛠️ I build things in **Python** (NumPy, SciPy) — including RL algorithms from scratch
+- 📫 Reach me: alireza.maleki@usask.ca
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected project**
+- **[LoRa-Satellite-RL](link-once-created)** — a from-scratch NumPy implementation
+  of PPO and DQN that allocates transmission parameters to minimize packet loss in
+  a passing-satellite LoRaWAN network, with a full physics-based simulator.
