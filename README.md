@@ -8,6 +8,6 @@ theory with machine learning.
 - 📫 Reach me: alireza.maleki@usask.ca
 
 **Selected project**
-- **[LoRa-Satellite-RL](link-once-created)** — a from-scratch NumPy implementation
+- **[LoRa-Satellite-RL](https://github.com/AlirezaMaleki-PhD/LoRa-Satellite-RL)** — a from-scratch NumPy implementation
   of PPO and DQN that allocates transmission parameters to minimize packet loss in
   a passing-satellite LoRaWAN network, with a full physics-based simulator.
